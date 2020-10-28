@@ -228,20 +228,18 @@ button {
   z-index: 100;
   position: absolute;
   color: white;
-  font-size: 20px;
   font-weight: bold;
-  left: 100px;
+  /* left: 100px; */
    /*top: 40px; */
   }
 
 
-/* h1 {
-  font-family: 'Lora', sans-serif;
+h1 {
   font-size: 20px;
-   width:600px;
+  width:600px;
   text-align: left;
-  margin-left: -500px;
-} */
+  /* margin-left: -500px; */
+}
 .flex-container {
   
   display: flex;
