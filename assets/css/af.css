@@ -302,6 +302,11 @@ h3s {
 /* background-color:inherit;
 border: 0px; */
  margin-left: 20px;
+ 
+}
+.list-group {
+padding: 20px;
+ 
 }
 
 
