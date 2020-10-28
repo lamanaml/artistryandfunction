@@ -96,13 +96,14 @@ include 'includes/nav.html';
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
+          <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h4>Website Development </h4>
             <!-- <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> -->
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/11/iStock-598086932-e1542820600115.jpg" class="d-block w-100" alt="...">
+          <img src="https://d14zyouj9r0hpo.cloudfront.net/wp-content/uploads/2020/06/image-9.jpeg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h4>SEO Optimization</h4>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
