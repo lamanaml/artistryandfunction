@@ -138,10 +138,10 @@ include 'includes/nav.html';
             <label for="staticEmail2" class="sr-only"></label>
             <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@email.com">
           </div>
-        <div>
+        </div>
         <div>
           <button type="submit" class=" mb-2" >Get Tips!</button>
-        <div>
+        </div>
         </form>
 
 </div>
