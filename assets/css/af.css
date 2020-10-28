@@ -233,7 +233,7 @@ button {
 .container_full {
   flex-direction:column;
   background-color: #fffffa ;
-  width: 80%;
+  width: 100%;
   padding-top:50px;
   padding-bottom:50px;
 }
