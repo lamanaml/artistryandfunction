@@ -298,6 +298,12 @@ h3s {
 .card-deck{
   margin: 10px 10px 0px 10px;
 }
+.list-group-item {
+/* background-color:inherit;
+border: 0px; */
+ margin-left: 20px;
+}
+
 
 }
 
