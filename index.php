@@ -110,7 +110,7 @@ include 'includes/nav.html';
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://smallbiztrends.com/wp-content/uploads/2018/08/shutterstock_417862348.jpg" class="d-block w-100" alt="...">
+          <img src="https://media.bizj.us/view/img/11644841/womanbusinessowner*1200xx4597-2591-526-429.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h4>Affiliate Marketing Implementation</h4>
             <!-- <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p> -->
