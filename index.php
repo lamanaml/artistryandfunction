@@ -128,7 +128,7 @@ include 'includes/nav.html';
       </a>
     </div>
 <!-- ------------------Sign up------------------     -->
-    <div class="container_full_dark">
+    <div class="container_full_dark form-group">
       <div>
         <h3s class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3s>
       </div>
