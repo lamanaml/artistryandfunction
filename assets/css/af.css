@@ -234,7 +234,7 @@ button {
 
 .container_full_dark {
   flex-direction: column;
-  background-color: #fffffa ;
+  color: #fffffa ;
   width: 100%;
   padding-top:50px;
   padding-bottom:50px;
