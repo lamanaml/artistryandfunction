@@ -279,8 +279,8 @@ h3 {
 .hide {
   display: none;
 }
-.card {
-  width: 400px;
+.card-deck{
+  margin: 10px 50px 0px 50px;
 }
 
 }
