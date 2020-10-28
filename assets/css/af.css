@@ -263,13 +263,11 @@ h3 {
   color: #294c60 ;
 }
 
-
 .flex-container {
-    display: flex;
   flex-direction:column;
-  width: 100%;
   /* margin: 10px 150px 0px 150px; */
   padding:20px;
+  color:orange;
 }
 .container_full {
   flex-direction:column;
