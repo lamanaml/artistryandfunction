@@ -207,9 +207,7 @@ button {
 /* ------------------Footer------------------ */
 .footer1 {
   color:  #fffffa;
-
 }
-
 
 .footer2 {
   left: 0px;
@@ -220,6 +218,21 @@ button {
   background-color:#001b2e;
   color:  #294c60;
   text-align: center;
+}
+
+
+/* Media Queries */
+
+@media only screen and (max-width: 600px) {
+
+
+.flex-container {
+  display: flex;
+  flex-direction:column;
+  width: 100%;
+  margin: 10px 150px 0px 150px;
+  padding:20px;
+}
 }
 
 
