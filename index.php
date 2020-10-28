@@ -42,12 +42,12 @@
 include 'includes/nav.html';
 ?>
 <!-- ------------------Hero------------------     -->
-    <div class="hero-image">
-  <div class="hero-text">
-    <h1 hero-head>Earn even more revenue from your web presence!</h1>
-    <h3>Tell us about your business</h3>
-   <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
-  </div>
+  <div class="hero-image">
+    <div class="hero-text">
+      <h1 hero-head>Earn even more revenue from your web presence!</h1>
+      <h3>Tell us about your business</h3>
+      <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
+    </div>
 </div>
 <!-- ------------------Main Content Area------------------     -->
     <div class="container_full">
