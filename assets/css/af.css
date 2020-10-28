@@ -224,9 +224,19 @@ button {
 /* Media Queries */
 
 @media only screen and (max-width: 600px) {
-
+.hero-head {
+  letter-spacing: 6px;
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 2vw;
+  font-weight: bold;
+  /* left: 150px;
+  top: 40px; */
+  }
 
 .flex-container {
+  
   display: flex;
   flex-direction:column;
   width: 100%;
