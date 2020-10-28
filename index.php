@@ -136,7 +136,7 @@ include 'includes/nav.html';
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: #72A4D2;" value="email@email.com">
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: #72A4D2; padding:3px;" value="email@email.com">
           </div>
         </div>
         <div>
