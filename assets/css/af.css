@@ -265,11 +265,10 @@ h3 {
 
 
 .flex-container {
-  
-  display: flex;
+    display: flex;
   flex-direction:column;
   width: 100%;
-  margin: 10px 150px 0px 150px;
+  /* margin: 10px 150px 0px 150px; */
   padding:20px;
 }
 .container_full {
