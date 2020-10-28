@@ -38,23 +38,9 @@
 
 
 <!-- ------------------Navigation------------------     -->
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light ">
-      <a class="navbar-brand" href="index.html">  <img src="assets/images/logo2.png"  alt="" loading="lazy"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-link" href="index.html#services">Services</a>
-          <a class="nav-link" href="index.html#about">About</a>
-           <a href="clientportal.html" class="nav-link" >Client Portal</a>
-           
-        </div>
-      </div>
-    </nav>
-</div>
+<?php
+include 'includes/nav.html';
+?>
 <!-- ------------------Hero------------------     -->
     <!-- <div class="hero-image">-->
     <!-- <div class="hero-text">   -->
@@ -85,65 +71,13 @@
 </div>
 <!-- ------------------Contact------------------     -->
 
-  <a name="contact"><div class="flex-container"></a>
-    <div>
-      <p> Follow Us</p>
-      <i class="fab fa-linkedin-in"></i><i class="fab fa-facebook-f"></i><i class="fab fa-instagram"></i> 
-    </div>
-    <div>
-      
-      <div class="flex-container_col" >
-    <ul class="list-group ">
-      <div>
-        <li class="list-group-item "> Home </li>
-      </div> 
-      <div>
-        <li class="list-group-item"> Services  </li>
-      </div>
-      <div>
-        <li class="list-group-item"> About Us   </li>
-      </div>
-       <div>
-        <li class="list-group-item"> Customer Portal  </li>
-      </div>
-    </ul>
-  </div>
-
-      
- </div>
-
-  <div class="flex-container_col" >
-    <ul class="list-group ">
-      <div>
-        <li class="list-group-item ">
-          <h5>Grow your Brand:</h5>
-          <p>grow@artistryandfunction.com</p>
-        </li>
-      </div> 
-      <div>
-        <li class="list-group-item">
-          <h5>Support:</h5>
-          <p>support@artistryandfunction.com</p>
-        </li>
-      </div>
-      <div>
-        <li class="list-group-item">
-          <h5>Careers:</h5>
-          <p>jobs@artistryandfunction.com</p>
-        </li>
-      </div>
-    </ul>
-  </div>
-
-</div>
-        
-    
+  
 
 
 <!-- ------------------Footer------------------     -->
-    <div class="footer ">
-      <p> Copyright 2020</p>
-    </div>
+<?php
+include 'includes/footer.html';
+?>
 
 <!-- ------------------JavaScript------------------     -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
