@@ -224,6 +224,15 @@ button {
 /* Media Queries */
 
 @media only screen and (max-width: 600px) {
+
+.hero-image {
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .hero-head {
   z-index: 100;
   position: absolute;
