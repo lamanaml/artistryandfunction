@@ -98,22 +98,22 @@ include 'includes/nav.html';
         <div class="carousel-item active">
           <img src="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/sites/44100/images/r3likVzgQgCnoDbaBBaP_Small_Business_Blog_for_Black_Women_Entrepreneurs_2.png" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h4>Website Development and Creation</h4>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h4>Website Development </h4>
+            <!-- <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> -->
           </div>
         </div>
         <div class="carousel-item">
           <img src="https://d14zyouj9r0hpo.cloudfront.net/wp-content/uploads/2020/06/image-9.jpeg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h4>SEO Optimization</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> -->
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://cdn.face2faceafrica.com/www/wp-content/uploads/2018/10/nubian.jpg" class="d-block w-100" alt="...">
+          <img src="https://smallbiztrends.com/wp-content/uploads/2018/08/shutterstock_417862348.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h4>Affiliate Marketing Implementation</h4>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+            <!-- <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p> -->
           </div>
         </div>
       </div>
