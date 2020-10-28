@@ -279,6 +279,10 @@ h3 {
 .hide {
   display: none;
 }
+.card {
+  width: 400px;
+}
+
 }
 
 
