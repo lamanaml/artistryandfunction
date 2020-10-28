@@ -54,19 +54,13 @@ include 'includes/nav.html';
   <h2 >Referral Program </h2>
   <div class="container">
     <p>
-If you have a client that could use our Internet marketing or responsive website services, we’d love to talk to you about our referral program. We will pay you a commission on any work we receive, giving you revenue that goes straight to the bottom line. Please fill out the form below and a Straight North representative will contact you to discuss specifics or give us a call at 855-932-1360.     </p>
+If you have a client that could use our Internet marketing or responsive website services, we’d love to talk to you about our referral program. We will pay you a commission on any referrals that sign a contract with us.  Please contact us to discuss the specifics.     </p>
     <p>
-Referral program participants include freelance marketers who need a reliable resource for projects outside their area of specialty or too large in scope. In addition, we work with companies and freelance professionals in related fields such as sales training, public relations and IT. Even if you aren’t in any of these fields, please contact us if you have a colleague or friend whose business needs more online sales leads. We know we can help!    </p>
+
 </div>
 </div>
 
 
-
-
-
-
-
-        
 
 
 <!-- ------------------Footer------------------     -->
