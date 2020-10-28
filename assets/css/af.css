@@ -232,6 +232,14 @@ button {
   padding-bottom:50px;
 }
 
+.container_full_dark {
+  flex-direction: column;
+  background-color: #fffffa ;
+  width: 100%;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
 .hero-image {
   height: 600px;
   background-position: center;
@@ -271,11 +279,8 @@ h3 {
 }
 
 
-
-
-
 .flex-container {
-   flex-direction: column;
+  flex-direction: column;
   width: 100%;
   margin: 10px 150px 0px 150px;
   padding:20px;
@@ -284,6 +289,7 @@ h3 {
 .hide {
   display: none;
 }
+
 .card-deck{
   margin: 10px 10px 0px 10px;
 }
