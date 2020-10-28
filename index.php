@@ -130,7 +130,7 @@ include 'includes/nav.html';
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark">
       <div>
-        <h3 class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3>
+        <h3s class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3s>
       </div>
       <div>
         <form class="form-inline " style="float:right; margin: -150px 500px 0px 0px; ">
