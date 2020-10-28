@@ -57,27 +57,29 @@ include 'includes/nav.html';
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Website Development</h5>
-            <p class="card-text">Professional content driven websites that are fully designed for all devices. .</p>
+            <p class="card-text hide">Professional content driven websites that are fully designed for all devices. .</p>
           </div>
         </div>
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Search Engine Optimization</h5>
+               <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          </div>
           </div>
         </div>
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Affiliate Marketing Management</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Content Creation</h5>
-            <p class="card-text">Develop relevant, marketable content from product pages to blogs and social media.</p>
+            <p class="card-text hide">Develop relevant, marketable content from product pages to blogs and social media.</p>
             
           </div>
         </div>
