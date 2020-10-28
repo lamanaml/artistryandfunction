@@ -143,8 +143,7 @@ include 'includes/nav.html';
           <button type="submit" class=" mb-2" >Get Tips!</button>
         </div>
         </form>
-
-</div>
+    </div>
 <!-- ------------------About------------------     -->
     <a name="about"><div class="container_full"></a>
 
