@@ -51,17 +51,18 @@ body {
 
 .container_full_dark {
   width: 100%;
-  margin: 10px 150px 0px 150px;
+  /* margin: 10px 150px 0px 150px; */
   padding:20px;
 }
 
 .flex-container {
   display: flex;
-   flex-direction: row;
+  flex-direction: row;
     width: 100%;
    /* margin: 10px 150px 0px 150px; */
-   padding:20px;
+  padding:20px;
 }
+
 .flex-container_col {
   display: flex;
   flex-direction: column;
