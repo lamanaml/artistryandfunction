@@ -264,20 +264,20 @@ h3 {
 }
 
 
-.flex-container {
-  
-  display: flex;
-  flex-direction:column;
-  width: 100%;
-  margin: 10px 150px 0px 150px;
-  padding:20px;
-}
+
+
 .container_full {
   flex-direction:column;
   background-color: #fffffa ;
   width: 100%;
   padding-top:50px;
   padding-bottom:50px;
+}
+.flex-container {
+   flex-direction:column;
+  width: 100%;
+  margin: 10px 150px 0px 150px;
+  padding:20px;
 }
 
 .hide {
