@@ -95,7 +95,7 @@ body {
 h1 {
   font-family: 'Lora', sans-serif;
   font-size: 70px;
-   width:600px;
+  width:600px;
   text-align: left;
   margin-left: -100px;
 }
@@ -147,8 +147,8 @@ h5 {
 }
 
 .circle {
-   border-radius: 50%;
-   padding: 20px;
+  border-radius: 50%;
+  padding: 20px;
 }
 
 
@@ -225,15 +225,13 @@ button {
 
 @media screen and (max-width: 992px) {
  
-
-
 }
 
 @media only screen and (max-width: 600px) {
 .container_full {
   flex-direction:column;
   background-color: #fffffa ;
-  width: 100%;
+
   padding-top:50px;
   padding-bottom:50px;
 }
@@ -241,7 +239,7 @@ button {
 .container_full_dark {
   flex-direction: column;
   color: #fffffa ;
-  width: 80%;
+
 }
 
 .hero-image {
@@ -288,7 +286,6 @@ h3s {
 
 .flex-container {
   flex-direction: column;
-  width: 100%;
   margin: 10px 150px 0px 150px;
   padding:20px;
 }
