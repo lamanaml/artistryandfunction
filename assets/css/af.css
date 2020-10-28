@@ -224,6 +224,13 @@ button {
 /* Media Queries */
 
 @media only screen and (max-width: 600px) {
+.container_full {
+  flex-direction:column;
+  background-color: #fffffa ;
+  width: 100%;
+  padding-top:50px;
+  padding-bottom:50px;
+}
 
 .hero-image {
   height: 600px;
@@ -266,15 +273,9 @@ h3 {
 
 
 
-.container_full {
-  flex-direction:column;
-  background-color: #fffffa ;
-  width: 100%;
-  padding-top:50px;
-  padding-bottom:50px;
-}
+
 .flex-container {
-   flex-direction:column;
+   flex-direction: column;
   width: 100%;
   margin: 10px 150px 0px 150px;
   padding:20px;
