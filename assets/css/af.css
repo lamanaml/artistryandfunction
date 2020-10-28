@@ -224,7 +224,7 @@ button {
 /* Media Queries */
 
 @media only screen and (max-width: 600px) {
-.hero-head {
+/* .hero-head {
   z-index: 100;
   position: absolute;
   color: white;
@@ -232,7 +232,7 @@ button {
   font-weight: bold;
   left: 100px;
    /*top: 40px; */
-  }
+  } */
 
 
 h1 {
@@ -240,7 +240,7 @@ h1 {
   font-size: 20px;
    width:600px;
   text-align: left;
-  margin-left: -100px;
+  margin-left: -500px;
 }
 .flex-container {
   
