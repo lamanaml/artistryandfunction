@@ -135,7 +135,7 @@ include 'includes/nav.html';
         <label for="staticEmail2" class="sr-only"></label>
         <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@email.com">
       </div>
-      <button type="submit" class=" mb-2" style="margin-left: 30px;">Get Tips!</button>
+      <button type="submit" class=" mb-2" >Get Tips!</button>
     </form>
 
 </div>
