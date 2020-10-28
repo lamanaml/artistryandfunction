@@ -64,8 +64,7 @@ include 'includes/nav.html';
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Search Engine Optimization</h5>
-               <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-          </div>
+             <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
         <div class="card">
