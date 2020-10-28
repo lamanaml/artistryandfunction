@@ -129,14 +129,20 @@ include 'includes/nav.html';
     </div>
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark">
-     <h3 class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3>
-    <form class="form-inline " style="float:right; margin: -150px 500px 0px 0px; ">
-      <div class="form-group mb-2" style="vertical-align: middle; ">
-        <label for="staticEmail2" class="sr-only"></label>
-        <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@email.com">
+      <div>
+        <h3 class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3>
       </div>
-      <button type="submit" class=" mb-2" >Get Tips!</button>
-    </form>
+      <div>
+        <form class="form-inline " style="float:right; margin: -150px 500px 0px 0px; ">
+          <div class="form-group mb-2" style="vertical-align: middle; ">
+            <label for="staticEmail2" class="sr-only"></label>
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@email.com">
+          </div>
+        <div>
+        <div>
+          <button type="submit" class=" mb-2" >Get Tips!</button>
+        <div>
+        </form>
 
 </div>
 <!-- ------------------About------------------     -->
