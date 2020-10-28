@@ -133,7 +133,7 @@ include 'includes/nav.html';
         <h3s class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3s>
       </div>
       <div>
-        <form class="form-inline " style="float:right; margin: -150px 500px 0px 0px; ">
+        <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
             <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="email@email.com">
