@@ -74,14 +74,7 @@ include 'includes/nav.html';
             <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
-        <div class="card">
-          <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Content Creation</h5>
-            <p class="card-text hide">Develop relevant, marketable content from product pages to blogs and social media.</p>
-            
-          </div>
-        </div>
+        
       </div>
     </div>
     
