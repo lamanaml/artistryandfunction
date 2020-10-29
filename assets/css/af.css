@@ -142,6 +142,9 @@ h5 {
   border:0px;
   background-color: #fffffa;
 }
+.card_large {
+ width: 33%;
+}
 
 .card-deck{
   margin: 10px 150px 0px 150px;

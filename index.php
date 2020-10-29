@@ -60,21 +60,21 @@ include 'includes/nav.html';
             <p class="card-text hide">Professional content driven websites that are fully designed for all devices. .</p>
           </div>
         </div>
-        <div class="card">
+        <div class="card card_large">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Search Engine Optimization</h5>
             <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
-        <div class="card">
+        <div class="card card_large">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Affiliate Marketing Management</h5>
             <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
-        <div class="card">
+        <div class="card card_large">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Content Creation</h5>
@@ -89,7 +89,9 @@ include 'includes/nav.html';
 
 
 <!-- ------------------Services------------------     -->
-   <a name="services"> <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"></a>
+<div>
+   <a name="services"> <h2 class="display-4">Services</h2></a>
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
@@ -126,6 +128,8 @@ include 'includes/nav.html';
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
+    </div>
+
     </div>
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark form-group">
