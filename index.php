@@ -139,7 +139,7 @@ include 'includes/nav.html';
 
     <div class="container_full_dark form-group" style="text-align: center;">
       <div>
-        <h2  >Let's Connect</h2>
+        <h4  >Let's Connect</h4>
          <p class="text-white" > growth@artistryandfunction.com</p>
         <div>
           <i class="fab fa-linkedin-in"></i>
@@ -148,7 +148,7 @@ include 'includes/nav.html';
         </div>
       </div>
       <div>
-          <h3 class="narrow_margin"></h3> Sign Up For Our Email List</h3>
+          <h4 > Sign Up For Our Email List</h4>
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
