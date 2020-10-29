@@ -51,7 +51,7 @@ include 'includes/nav.html';
 </div>
 <!-- ------------------Main Content Area------------------     -->
     <div class="container_full">
-      <h2 class="display-4">How can we help your business?</h2>
+      <h2 class="display-4">Our Services</h2>
       <div class="card-deck">
         <div class="card card_large">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
@@ -90,8 +90,8 @@ include 'includes/nav.html';
 
 <!-- ------------------Services------------------     -->
 <div>
-   <a name="services"> <h2 class="display-4">Services</h2></a>
-  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+   <a name="services"> 
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"></a>
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
