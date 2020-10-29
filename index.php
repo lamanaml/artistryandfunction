@@ -90,7 +90,6 @@ include 'includes/nav.html';
 
 <!-- ------------------Services------------------     -->
 <div>
-  <h2 class="display-4">Servvices</h2>
    <a name="services"> <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"></a>
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
