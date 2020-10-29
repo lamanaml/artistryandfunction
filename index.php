@@ -147,17 +147,17 @@ include 'includes/nav.html';
           <i class="fab fa-instagram"></i>  
         </div>
       </div>
-      <div>
+  
           <h4 >Sign Up For Our Email List</h4>
         <form class="form-inline ">
-          <div class="form-group mb-2" style="vertical-align: middle; ">
+          <span class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
             <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: white; color:gray; padding:20px; margin:20px; border: 2px solid black;" value=" *Email Address">
-          </div>
-        </div>
-        <div>
-          <button type="submit" class=" mb-2" style="background-color: white; color:gray; padding:20px; margin:20px; border: 2px solid black;" >Get Tips!</button>
-        </div>
+          </span>
+     
+      
+          <button type="submit" class=" mb-2" style="background-color: white; color:gray; padding:20px; margin:20px; border: 2px solid black;" >Submit</button>
+        
         </form>
     </div>
 <!-- ------------------About------------------     -->
