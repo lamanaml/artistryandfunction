@@ -135,7 +135,7 @@ include 'includes/nav.html';
 
     <div class="container_full_dark form-group" style="text-align: center;">
     <div class="img-wrapper">
-				<img src=" https://i.pinimg.com/originals/9a/60/52/9a60525a400e020726ccdc5606e27201.jpg"  />
+				<img src=" https://i.pinimg.com/originals/9a/60/52/9a60525a400e020726ccdc5606e27201.jpg" style="width:300px"  />
 			</div>
   
       <div>
