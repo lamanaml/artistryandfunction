@@ -257,12 +257,18 @@ button {
 
 
 h1 {
-  font-size: 30px;
+
   width:300px;
   text-align: center;
-  font-weight: bold;
-  /* margin-left: -500px; */
+  letter-spacing: 1px;
+
+
+
 }
+
+
+
+
 
 h2{
   font-size: 30px;
