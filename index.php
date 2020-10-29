@@ -141,7 +141,7 @@ include 'includes/nav.html';
       <div>
         <h4  >Let's Connect</h4>
          <p class="text-white" > growth@artistryandfunction.com</p>
-        <div>
+        <div class="text-white">
           <i class="fab fa-linkedin-in"></i>
           <i class="fab fa-facebook-f"></i>
           <i class="fab fa-instagram"></i>  
