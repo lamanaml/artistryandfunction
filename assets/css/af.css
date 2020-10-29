@@ -203,7 +203,7 @@ button {
   justify-content: center;
  }
 
-.mb-2 {
+.mb-2, .form-inline {
   align-items: center;
   justify-content: center;
   background-color: #ffffff;
@@ -212,7 +212,7 @@ button {
   margin:20px; 
   border: 1px solid black;
   text-align: center;
-    justify-content: center;
+
 }
 
 .form-control-plaintext {
