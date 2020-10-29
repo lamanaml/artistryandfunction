@@ -241,6 +241,7 @@ button {
 .container_full_dark {
   flex-direction: column;
   color: #fffffa ;
+  justify-items: center;
 
 }
 
