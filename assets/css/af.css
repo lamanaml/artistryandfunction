@@ -253,11 +253,9 @@ button {
 
 h1 {
   font-size:40px;
-  width:400px;
-  text-align: center;
+  width:300px;
+  text-align: left;
   letter-spacing: 1px;
-
-  letter-spacing: 6px;
   z-index: 100;
   position: absolute;
 
