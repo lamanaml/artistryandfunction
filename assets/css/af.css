@@ -273,17 +273,11 @@ h2{
 }
 h3 {
   font-size: 20px;
-  font-weight:bold;
   padding-top: 50px;
   padding-bottom: 20px;
-  margin-left: 50px;
-  color: #294c60 ;
+  color: #fffffa ;
 }
-h3 {
 
-  font-size: 20px;
- color: #fffffa ;
-}
 
 .flex-container {
   flex-direction: column;
