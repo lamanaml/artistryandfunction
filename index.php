@@ -149,7 +149,7 @@ include 'includes/nav.html';
     </div>
 
 <!-- ------------------Sign up------------------     -->
-    <div class="container_full_dark ">
+    <div >
       <div> <h3 > Let's Connect</h3>
        <p>growth@artistryandfunction.com</p>
       <i class="fab fa-linkedin-in fa-lg" ></i>
