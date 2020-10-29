@@ -93,6 +93,17 @@ body {
 
 /* ------------------Typography------------------ */
 
+.hero_h1 {  
+  /* font-size: 34px; */
+  letter-spacing: 6px;
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 3vw;
+  font-weight: bold;
+  left: 150px;
+  top: 40px;
+}
 h1 {
   font-family: 'Lora', sans-serif;
   font-size: 70px;
@@ -236,7 +247,6 @@ button {
 .container_full {
   flex-direction:column;
   background-color: #fffffa ;
-
   padding-top:50px;
   padding-bottom:50px;
 }
@@ -257,6 +267,10 @@ button {
 
 .hero-head {
   z-index: 100;
+   font-size: 30px;
+  width:300px;
+  text-align: center;
+  font-weight: bold;
   position: absolute;
   left: 150px;
    /*top: 40px; */

@@ -21,13 +21,12 @@
     <title>Artistry + Function</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="icon"   type="image/png"  href="assets/images/favicon.png">
+    <link rel="icon"   type="image/png"  href="assets/images/favicon.png">
 <!-- ------------------Stylesheets------------------     -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/af.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-   <link rel="stylesheet" type="text/css" href="assets/css/af.css">
   </head>
 
 
@@ -43,10 +42,9 @@ include 'includes/nav.html';
 ?>
 <!-- ------------------Hero------------------     -->
   <div class="hero-image">
-    <div class="hero-text">
-      <h1 hero-head>Earn even more revenue from your web presence!</h1>
-      <h3>Tell us about your business</h3>
-      <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
+      <div class="hero-h1">Earn even more revenue from your web presence!</div>
+      <div class="hero-text">Tell us about your business</div>
+      <div><a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a></div>
     </div>
 </div>
 <!-- ------------------Main Content Area------------------     -->
