@@ -58,22 +58,22 @@ include 'includes/nav.html';
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 >Website Development</h5>
-            <p class="card-text hide">Professional content driven websites that are fully designed for all devices. .</p>
+            <h5 >Web Design and Development</h5>
+           
           </div>
         </div>
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Search Engine Optimization</h5>
-            <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+           
           </div>
         </div>
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Affiliate Marketing Management</h5>
-            <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+           
           </div>
         </div>
         
@@ -148,7 +148,7 @@ include 'includes/nav.html';
       <div class="row row-cols-1 row-cols-md-2 card-deck">
         <div class="col mb-4">
           <div class="card">
-            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top circle" alt="...">
+            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
             
           </div>
         </div>
