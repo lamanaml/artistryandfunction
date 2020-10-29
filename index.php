@@ -135,7 +135,7 @@ include 'includes/nav.html';
 
     <div class="container_full_dark form-group" style="text-align: center;">
       <div>
-        <h4  >Let's Connect</h4>
+        <h4 >Let's Connect</h4>
          <p class="text-white" >growth@artistryandfunction.com</p>
         <div class="text-white">
           <i class="fab fa-linkedin-in"></i>
