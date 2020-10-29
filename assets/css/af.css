@@ -9,9 +9,6 @@ body {
   background-color: #294c60 ;
   
 }
-.container_full {
-  width: 90%;
-}
 
 /* ------------------Hero------------------ */
 .hero-image {
@@ -35,7 +32,7 @@ body {
 
 /* Containers */
 .container_full {
-  background-color: #fffffa ;
+  background-color: #ffffff ;
   width: 100%;
   padding-top:100px;
   padding-bottom:100px;
@@ -141,14 +138,14 @@ h5 {
 /* ------------------Cards------------------ */
 .card {
   border:0px;
-  background-color: #fffffa;
+  background-color: #ffffff;
 }
 .card_large {
  width: 33%;
 }
 
 .card-deck{
-  margin: 10px 150px 0px 150px;
+  margin: 10px 100px 0px 100px;
 }
 
 .circle {
