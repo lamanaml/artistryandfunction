@@ -43,46 +43,45 @@ include 'includes/nav.html';
 ?>
 <!-- ------------------Hero------------------     -->
   <div class="hero-image">
-    <h1 class="hero-head">Earn even more revenue from your web presence!</h1>
-      <div class="hero-text">Tell us about your business</div>
-     <div> 
-        <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
-      </div>
+    <div class="hero-text">
+      <h1 hero-head>Earn even more revenue from your web presence!</h1>
+      <h3>Tell us about your business</h3>
+      <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
     </div>
 </div>
 <!-- ------------------Main Content Area------------------     -->
     <div class="container_full">
-      <h2 >Our Services</h2>
+      <h2 class="display-4">How can we help your business?</h2>
       <div class="card-deck">
-        <div class="card card_large">
+        <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 >Website Development </h5>
-            <!-- <p class="card-text hide">Professional content driven websites that are fully designed for all devices. .</p> -->
+            <h5 class="card-title">Website Development</h5>
+            <p class="card-text hide">Professional content driven websites that are fully designed for all devices. .</p>
           </div>
         </div>
-        <div class="card card_large">
+        <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Search Engine Optimization</h5>
-            <!-- <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p> -->
+            <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
-        <div class="card card_large">
+        <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Affiliate Marketing Management</h5>
-            <!-- <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p> -->
+            <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
-        <!-- <div class="card card_large">
+        <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Content Creation</h5>
             <p class="card-text hide">Develop relevant, marketable content from product pages to blogs and social media.</p>
             
           </div>
-        </div> -->
+        </div>
       </div>
     </div>
     
@@ -91,8 +90,8 @@ include 'includes/nav.html';
 
 <!-- ------------------Services------------------     -->
 <div>
-   <a name="services"> 
-  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"></a>
+  <h2 class="display-4">Servvices</h2>
+   <a name="services"> <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel"></a>
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
@@ -133,27 +132,20 @@ include 'includes/nav.html';
 
     </div>
 <!-- ------------------Sign up------------------     -->
-
-    <div class="container_full_dark form-group" style="text-align: center;">
-   
-  
+    <div class="container_full_dark form-group">
       <div>
-        <h4 >Let's Connect</h4>
-         <p class="text-white" >growth@artistryandfunction.com</p>
-        <div class="text-white">
-          <i class="fab fa-linkedin-in"></i>
-          <i class="fab fa-facebook-f"></i>
-          <i class="fab fa-instagram"></i>  
-        </div>
+        <h3s class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3s>
       </div>
-  
-      <h4 >Sign Up For Our Email List</h4>
+      <div>
         <form class="form-inline ">
-          <span class="form-group mb-2" >
+          <div class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value=" *Email Address">
-          </span>
-          <button type="submit" class="mb-2" >Submit</button>
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: grey; padding:10px; margin:20px; border: 2px solid black; border-radius: 4px;" value="email@email.com">
+          </div>
+        </div>
+        <div>
+          <button type="submit" class=" mb-2" >Get Tips!</button>
+        </div>
         </form>
     </div>
 <!-- ------------------About------------------     -->
@@ -162,19 +154,21 @@ include 'includes/nav.html';
       <div class="row row-cols-1 row-cols-md-2 card-deck">
         <div class="col mb-4">
           <div class="card">
-            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
+            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top circle" alt="...">
             
           </div>
         </div>
         <div class="col mb-4">
           <div class="card">
         <div class="card-body">
-              <h3 >Web Design Agency helping to grow your business</h3>
-              <!-- <h5 class="card-title"></h5> -->
-              <p class="card-text">We are a web development company located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small to medium companies to improve their business.</p>
-               <h6><a href="#">Learn More about our business</a></h6>
+                <h5 class="display-4">About Us</h5>
+              <h5 class="card-title">Our Experience</h5>
+              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
-            
+            <div class="card-body">
+              <h5 class="card-title">Our team</h5>
+              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
           </div>
         </div> 
       </div>
