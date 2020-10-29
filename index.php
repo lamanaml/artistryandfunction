@@ -42,9 +42,9 @@ include 'includes/nav.html';
 ?>
 <!-- ------------------Hero------------------     -->
   <div class="hero-image">
-      <div class="hero-h1">Earn even more revenue from your web presence!</div>
-      <div class="hero-text">Tell us about your business</div>
-      <div><a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a></div>
+      <h1 class="hero-head">Earn even more revenue from your web presence!</h1>
+      <h3 class="hero-text">Tell us about your business</h3>
+      <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
     </div>
 </div>
 <!-- ------------------Main Content Area------------------     -->
