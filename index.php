@@ -41,12 +41,15 @@
 include 'includes/nav.html';
 ?>
 <!-- ------------------Hero------------------     -->
-  <div class="hero-image">
-      <h1 class="hero-head">Earn even more revenue from your web presence!</h1>
-      <h3 class="hero-text">Tell us about your business</h3>
-      <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
-    </div>
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>Earn even more revenue from your web presence!</h1>
+    <p>Tell us about your business</p>
+     href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
+  </div>
 </div>
+
 <!-- ------------------Main Content Area------------------     -->
     <div class="container_full">
       <h2 class="display-4">How can we help your business?</h2>
