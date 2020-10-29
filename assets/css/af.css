@@ -31,11 +31,11 @@ body {
   color: white;
   width:600px;
 
-  margin-left: -100px;
+
   /* z-index: 100;
  */
-  padding-left: 150px;
-  padding-top: 40px; 
+  padding-left: 250px;
+  padding-top: 100px; 
 }
 
 .hero-text {
