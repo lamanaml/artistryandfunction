@@ -139,8 +139,8 @@ include 'includes/nav.html';
 
     <div class="container_full_dark form-group" style="text-align: center;">
       <div>
-        <h3 class="narrow_margin" >Let's Connect</h3>
-         <p class="narrow_margin" > growth@artistryandfunction.com</p>
+        <h2  >Let's Connect</h2>
+         <p class="text-white" > growth@artistryandfunction.com</p>
         <div>
           <i class="fab fa-linkedin-in"></i>
           <i class="fab fa-facebook-f"></i>

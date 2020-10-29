@@ -9,8 +9,6 @@ body {
   background-color: #294c60 ;
   color: darkslategrey;
   line-height:1.6;
-
-  
 }
 
 /* ------------------Hero------------------ */
@@ -155,6 +153,10 @@ h5 {
 
 .narrow_margin {
   width:500px;
+}
+
+.text_white {
+  color: #fffff2;
 }
 
 /* ------------------Cards------------------ */
