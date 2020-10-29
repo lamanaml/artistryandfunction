@@ -125,6 +125,30 @@ include 'includes/nav.html';
     </div>
 
     </div>
+
+
+<!-- ------------------ our niche------------------     -->
+   <div class="container_full">
+
+      <div class="row row-cols-1 row-cols-md-2 card-deck">
+        <div class="col mb-4">
+          <div class="card">
+            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
+            
+          </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card">
+        <div class="card-body">
+                <h2 >We can help you grow your brand</h2>
+              
+              <p class="card-text">We are a web design and development agency located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small and medium companies to improve their business.</p>
+            </div>
+          </div>
+        </div> 
+      </div>
+    </div>
+
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark form-group">
       <div>
