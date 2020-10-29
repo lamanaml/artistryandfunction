@@ -9,6 +9,9 @@ body {
   background-color: #294c60 ;
   
 }
+.container_full {
+  width: 90%;
+}
 
 /* ------------------Hero------------------ */
 .hero-image {

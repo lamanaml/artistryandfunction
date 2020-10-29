@@ -53,7 +53,7 @@ include 'includes/nav.html';
 
 <!-- ------------------Main Content Area------------------     -->
     <div class="container_full">
-      <h2 >How can we help your business?</h2>
+      <h2 >Our Services</h2>
       <div class="card-deck">
         <div class="card">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
