@@ -206,7 +206,8 @@ button {
 .mb-2 {
   align-items: center;
   justify-content: center;
-    color :gray; 
+  background-color: #ffffff
+  color :gray; 
   padding:10px; 
   margin:20px; 
   border: 1px solid black;
