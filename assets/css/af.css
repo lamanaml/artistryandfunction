@@ -106,10 +106,11 @@ h1 {
 
 h2 {
   font-family: 'Lora', sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   /* padding-top: 50px;*/
   padding-bottom: 20px; 
   margin-left:150px;
+  align: center;
 }
 
 h3 {
