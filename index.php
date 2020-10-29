@@ -133,14 +133,14 @@ include 'includes/nav.html';
       <div class="row row-cols-1 row-cols-md-2 card-deck">
         <div class="col mb-4">
           <div class="card">
-            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
+            <img src="https://media.bizj.us/view/img/11644841/womanbusinessowner*1200xx4597-2591-526-429.jpg" class="card-img-top " alt="...">
             
           </div>
         </div>
         <div class="col mb-4">
           <div class="card">
         <div class="card-body">
-                <h1 >We can help you grow your brand</h1>
+                <h1 class="display-4">We can help you grow your brand</h1>
               
               <p class="card-text">We are a web design and development agency located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small and medium companies to improve their business.</p>
             </div>
