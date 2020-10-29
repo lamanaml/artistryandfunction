@@ -150,9 +150,16 @@ include 'includes/nav.html';
 
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark form-group">
+      <div> <h3 class="narrow_margin" > Let's Connect</h3>
+       <p>growth@artistryandfunction.com</p>
+      <i class="fab fa-linkedin-in fa-lg" ></i>
+      <i class="fab fa-facebook-f fa-lg"></i>
+      <i class="fab fa-instagram fa-lg"></i>  
+     
+    </div>
       <div>
-        <h3s class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3s>
-      </div>
+        <h3 class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3>
+      </div>Sign up to get tips to grow your business!
       <div>
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle; ">
