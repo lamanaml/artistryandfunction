@@ -205,6 +205,11 @@ button {
 
 .form-control-plaintext {
   color: #ffffff  
+  background-color: white; 
+  color:gray; 
+  padding:10px; 
+  margin:20px; 
+  border: 1px solid black;
 }
 
 

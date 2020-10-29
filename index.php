@@ -148,16 +148,13 @@ include 'includes/nav.html';
         </div>
       </div>
   
-          <h4 >Sign Up For Our Email List</h4>
+      <h4 >Sign Up For Our Email List</h4>
         <form class="form-inline ">
           <span class="form-group mb-2" >
             <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: white; color:gray; padding:10px; margin:20px; border: 1px solid black;" value=" *Email Address">
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style=value=" *Email Address">
           </span>
-     
-      
-          <button type="submit" class=" mb-2" style="background-color: white; color:gray; padding:20px; margin:10px; border: 1px solid black;" >Submit</button>
-        
+          <button type="submit" class=" mb-2"  >Submit</button>
         </form>
     </div>
 <!-- ------------------About------------------     -->
