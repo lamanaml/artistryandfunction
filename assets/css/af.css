@@ -285,7 +285,6 @@ button {
 .container_full {
   flex-direction:column;
   background-color: #ffffff ;
-
   padding-top:50px;
   padding-bottom:50px;
 }
@@ -293,7 +292,6 @@ button {
 .container_full_dark {
   flex-direction: column;
   color: #000000;
-
 }
 
 .hero-image {
@@ -302,14 +300,14 @@ button {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-
+ } 
 
 /* .hero-head {
   z-index: 100;
   position: absolute;
   left: 150px;
    /*top: 40px; */
-  } */
+
 
 /* 
 .hero-head  {
@@ -318,7 +316,7 @@ button {
   text-align: center;
   font-weight: bold;
   /* margin-left: -500px; */
-} */
+
 
 h2{
   font-size: 30px;
