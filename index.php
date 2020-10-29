@@ -53,7 +53,7 @@ include 'includes/nav.html';
     <div class="container_full">
       <h2 class="display-4">How can we help your business?</h2>
       <div class="card-deck">
-        <div class="card">
+        <div class="card card_large">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Website Development</h5>
@@ -74,14 +74,14 @@ include 'includes/nav.html';
             <p class="card-text hide">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
           </div>
         </div>
-        <div class="card card_large">
+        <!-- <div class="card card_large">
           <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Content Creation</h5>
             <p class="card-text hide">Develop relevant, marketable content from product pages to blogs and social media.</p>
             
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
     
