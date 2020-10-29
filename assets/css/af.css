@@ -201,15 +201,16 @@ button {
 .form-group {
   align-items: center;
   justify-content: center;
-}
-
-.form-control-plaintext {
-  color: #ffffff  
-  background-color: white; 
-  color:gray; 
+    color :gray; 
   padding:10px; 
   margin:20px; 
   border: 1px solid black;
+}
+
+.form-control-plaintext {
+  color: #ffffff ; 
+  background-color: white; 
+
 }
 
 
