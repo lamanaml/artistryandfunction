@@ -143,6 +143,14 @@ h5 {
   text-align: center;
 }
 
+h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight:bold;
+  text-transform: capitalize;
+  text-align: left;
+}
+
 .narrow_margin {
   width:500px;
 }
