@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #294c60 ;
+  background-color: ffffff;
   color: darkslategrey;
   line-height:1.6;
 }
@@ -33,7 +33,7 @@ body {
 
  z-index: 100;
 
-  padding-left: 250px;
+  padding-left: 150px;
   padding-top: 100px; 
 }
 
@@ -61,7 +61,6 @@ body {
 
 /* Containers */
 .container_full {
-  background-color: #fffffa ;
   width: 100%;
   padding-top:100px;
   padding-bottom:100px;
@@ -99,7 +98,7 @@ body {
 }
 
 .nav-link {
-  color:#fffffa !important;
+  color:#ffffff !important;
   font-weight: bold;
   font-size: 14px;
   margin-top: 30px;
@@ -135,7 +134,7 @@ h3 {
   font-family: 'Lora', sans-serif;
   font-size: 40px;
   font-weight:bold;
-  color: gray;
+  color: #000000;
   padding-top: 50px;
   padding-bottom: 20px;
   margin-left: 100px;
@@ -145,7 +144,7 @@ h4 {
   font-family: 'Lora', sans-serif;
   font-size: 40px;
   font-weight:bold;
-  color: #fffff2;
+  color: #000000;
   padding-top: 50px;
   padding-bottom: 20px;
 }
@@ -231,7 +230,7 @@ button {
 }
 
 .form-control-plaintext {
-  color: #ffffff ; 
+  color: #000000; 
   background-color: white; 
 
 }
