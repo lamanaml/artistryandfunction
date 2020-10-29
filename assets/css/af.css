@@ -201,6 +201,11 @@ button {
 .form-group {
   align-items: center;
   justify-content: center;
+ }
+
+.mb-2 {
+  align-items: center;
+  justify-content: center;
     color :gray; 
   padding:10px; 
   margin:20px; 

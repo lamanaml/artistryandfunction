@@ -133,10 +133,6 @@ include 'includes/nav.html';
     </div>
 <!-- ------------------Sign up------------------     -->
 
-
-
-
-
     <div class="container_full_dark form-group" style="text-align: center;">
       <div>
         <h4  >Let's Connect</h4>
