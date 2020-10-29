@@ -140,7 +140,7 @@ include 'includes/nav.html';
         <div class="col mb-4">
           <div class="card">
         <div class="card-body">
-                <h2 >We can help you grow your brand</h2>
+                <h3 >We can help you grow your brand</h3>
               
               <p class="card-text">We are a web design and development agency located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small and medium companies to improve their business.</p>
             </div>
