@@ -21,35 +21,43 @@ body {
   background-size: cover;
   position: relative;
 }
+.hero-head {  
+  font-family: 'Lora', sans-serif;
+  font-size: 3vw;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  letter-spacing: 6px;
+  color: white;
+
+  margin-left: -100px;
+  z-index: 100;
+  width:600px;
+  left: 150px;
+  top: 40px;
+}
 
 .hero-text {
-  text-align: center;
-  position: absolute;
   font-family: 'Lora', sans-serif;
   font-size: 40px;
   font-weight:bold;
+  text-align: center;
+  position: absolute;
+  color: white;
+
+
+  margin-left: 100px;
   top: 50%;
   left: 50%;
   padding-top: 50px;
   padding-bottom: 20px;
-  margin-left: 100px;
+  
   transform: translate(-50%, -50%);
-  color: white;
-}
+ }
 
  
 
-.hero-head {  
-  /* font-size: 34px; */
-  letter-spacing: 6px;
-  z-index: 100;
-  position: absolute;
-  color: white;
-  font-size: 3vw;
-  font-weight: bold;
-  left: 150px;
-  top: 40px;
-}
+
 
 /* Containers */
 .container_full {
