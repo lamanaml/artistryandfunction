@@ -29,17 +29,7 @@ body {
   transform: translate(-50%, -50%);
   color: white;
 }
-.hero-head {  
-  /* font-size: 34px; */
-  letter-spacing: 6px;
-  z-index: 100;
-  position: absolute;
-  color: white;
-  font-size: 3vw;
-  font-weight: bold;
-  left: 150px;
-  top: 40px;
-}
+
 
 /* Containers */
 .container_full {
@@ -95,11 +85,21 @@ body {
 
 h1 {
   font-family: 'Lora', sans-serif;
-  font-size: 70px;
+  font-size: 3vw;
+  font-weight: bold;
+  color: white;
+  /* font-size: 70px; */
   width:600px;
   text-align: left;
   margin-left: -100px;
+  letter-spacing: 6px;
+  z-index: 100;
+  position: absolute;
+  left: 150px;
+  top: 40px;
 }
+
+
 
 h2 {
   font-family: 'Lora', sans-serif;
@@ -254,12 +254,6 @@ button {
   position: relative;
 }
 
-.hero-head {
-  z-index: 100;
-  position: absolute;
-  left: 150px;
-   /*top: 40px; */
-  }
 
 
 h1 {
