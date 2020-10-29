@@ -30,7 +30,7 @@ body {
   letter-spacing: 6px;
   color: white;
 
-  margin-left: -100px;
+  /* margin-left: -100px; */
   z-index: 100;
   width:600px;
   left: 150px;
