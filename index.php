@@ -43,9 +43,9 @@ include 'includes/nav.html';
 ?>
 <!-- ------------------Hero------------------     -->
   <div class="hero-image">
-    <div class="hero-text">
+   
       <h1 hero-head>Earn even more revenue from your web presence!</h1>
-      <h3>Tell us about your business</h3>
+       <div class="hero-text">Tell us about your business</div>
       <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
     </div>
 </div>

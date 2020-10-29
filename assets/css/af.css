@@ -25,11 +25,22 @@ body {
 .hero-text {
   text-align: center;
   position: absolute;
+  font-family: 'Lora', sans-serif;
+  font-size: 40px;
+  font-weight:bold;
   top: 50%;
   left: 50%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-left: 100px;
   transform: translate(-50%, -50%);
   color: white;
 }
+
+ 
+
+ 
+
 .hero-head {  
   /* font-size: 34px; */
   letter-spacing: 6px;
@@ -316,7 +327,7 @@ h3 {
   margin-left: 50px;
   color: #294c60 ;
 }
-h3s {
+h3 {
 
   font-size: 20px;
  color: #fffffa ;
