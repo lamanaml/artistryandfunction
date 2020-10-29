@@ -161,8 +161,8 @@ include 'includes/nav.html';
         <div class="col mb-4">
           <div class="card">
         <div class="card-body">
-              <h2 >About Us</h2>
-              <h5 class="card-title">Web Design Agency helping to grow your business</h5>
+              <h2 >Web Design Agency helping to grow your business</h2>
+              <!-- <h5 class="card-title"></h5> -->
               <p class="card-text">We are a web development company located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small to medium companies to improve their business.</p>
                <h5><a href="#">Learn More about our business</a></h5>
             </div>
