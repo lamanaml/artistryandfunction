@@ -149,8 +149,8 @@ include 'includes/nav.html';
     </div>
 
 <!-- ------------------Sign up------------------     -->
-    <div class="container_full_dark form-group">
-      <div> <h3  > Let's Connect</h3>
+    <div class="container_full_dark ">
+      <div> <h3 > Let's Connect</h3>
        <p>growth@artistryandfunction.com</p>
       <i class="fab fa-linkedin-in fa-lg" ></i>
       <i class="fab fa-facebook-f fa-lg"></i>
