@@ -132,50 +132,31 @@ include 'includes/nav.html';
 
     </div>
 <!-- ------------------Sign up------------------     -->
-<div class="footer-holder">
-			<a href="/contact"><div class="img-wrapper">
-				<img src="https://1kcxyo1ew7fr1skbu33bv4h6-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/building-illo-grey2.gif" alt="footer_house" />
-			</div></a>
-			<div class="contact-info">
-				<h2>Let's Connect</h2>
-				<div class="line"></div>
-				<a href="https://www.google.com/maps/place/Cobble+Hill/@32.7975596,-79.9504494,15z/data=!4m2!3m1!1s0x0:0x135fed5f9e6aa76?sa=X&ved=0ahUKEwjpmfWt0q7UAhXMOyYKHbWgB0wQ_BIIgAEwCg" target="_blank" class="add_link"><p>602 Rutledge Avenue</p>
-				<p>Charleston, South Carolina 29403</p></a>
-				<a href="mailto:hello@cobblehilldigital.com" target="_blank"><p>hello@cobblehilldigital.com</p></a>
-								<a href="https://www.instagram.com/cobble_hill/" target="_blank"><i class="fa fa-instagram"></i></a>
-				<a href="https://twitter.com/cobble_hill" target="_blank"><i class="fa fa-twitter"></i></a>
-				<a href="https://www.pinterest.com/cobblehill/" target="_blank"><i class="fa fa-pinterest-p"></i></a>
-				<a href="https://www.facebook.com/cobblehilldigital" target="_blank"><i class="fa fa-facebook-f"></i></a>
-			</div>
-		</div>
-		<div class="contactFooter" >
-			<div class="signupBox">
-				<h2>Sign Up For Our Email List</h2>
-				<form>
-					<input type="email" placeholder="*Email Address"/>
-					<input type="submit"/>
-				</form>
-			</div>
-		</div>
-		<div id="instafeed" style="display: none;"></div>
-		<div class="home-case" style="display: none;"></div>
+
 
 
 
 
     <div class="container_full_dark form-group">
       <div>
-        <h3 class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3>
+        <h3 class="narrow_margin" >Let's Connect</h3>
+         <p class="narrow_margin" > growth@artistryandfunction.com</p>
+        <div>
+          <i class="fab fa-linkedin-in"></i>
+          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-instagram"></i>  
+        </div>
       </div>
       <div>
+          <h3 class="narrow_margin"></h3> Sign Up For Our Email List</h3>
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: grey; padding:10px; margin:20px; border: 2px solid black; border-radius: 4px;" value="email@email.com">
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style="background-color: white; padding:30px; margin:20px; border: 2px solid black;" value=" *Email Address">
           </div>
         </div>
         <div>
-          <button type="submit" class=" mb-2" >Get Tips!</button>
+          <button type="submit" class=" mb-2" style="background-color: white; padding:30px; margin:20px; border: 2px solid black;" >Get Tips!</button>
         </div>
         </form>
     </div>
