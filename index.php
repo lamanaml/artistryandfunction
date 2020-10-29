@@ -134,7 +134,7 @@ include 'includes/nav.html';
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark form-group">
       <div>
-        <h3s class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3s>
+        <h3 class="narrow_margin" > Subscribe to get tips to increase traffic and revenue!</h3>
       </div>
       <div>
         <form class="form-inline ">
