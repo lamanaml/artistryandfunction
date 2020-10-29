@@ -148,7 +148,7 @@ include 'includes/nav.html';
         <form class="form-inline ">
           <span class="form-group mb-2" >
             <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  style=value=" *Email Address">
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value=" *Email Address">
           </span>
           <button type="submit" class="mb-2"  >Submit</button>
         </form>
