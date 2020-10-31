@@ -32,6 +32,15 @@ body {
 
 
 /* Containers */
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+    width: 100%;
+   /* margin: 10px 150px 0px 150px; */
+  /* padding:20px; */
+}
+
 .container_full {
   background-color: #ffffff ;
   width: 100%;
@@ -45,23 +54,11 @@ body {
   padding:20px;
 }
 
-.flex-container {
-  display: flex;
-  flex-direction: row;
-    width: 100%;
-   /* margin: 10px 150px 0px 150px; */
-  /* padding:20px; */
-}
 
 .flex-container_col {
   display: flex;
   flex-direction: column;
 }
-
-
-
-
-
 
 
 /* ------------------Navigation------------------ */
@@ -82,6 +79,11 @@ body {
 .align_right {
 float:right;
 }
+
+
+
+
+
 
 /* ------------------Typography------------------ */
 
@@ -189,12 +191,12 @@ button {
   color: #ffffff  
 }
 
-
+/* -----------------List------------------ */
 
 .list-group-item {
 background-color:inherit;
 border: 0px;
- margin-left: 300px;
+margin-left: 300px;
 }
 
 
@@ -229,7 +231,7 @@ button {
 }
 
 
-/* Media Queries */
+/* ---------------- Media Queries--------------- */
 
 @media screen and (max-width: 992px) {
  
@@ -282,7 +284,7 @@ h3 {
   padding-top: 50px;
   padding-bottom: 20px;
   color: #fffffa ;
-   margin-left:0px;
+  margin-left:0px;
 }
 
 
@@ -307,7 +309,7 @@ border: 0px; */
 }
 .list-group {
 padding: 20px;
- 
+
 }
 
 
