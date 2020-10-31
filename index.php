@@ -150,7 +150,7 @@ include 'includes/nav.html';
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle; ">
             <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value="email@email.com">
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
           </div>
         </div>
         <div>
