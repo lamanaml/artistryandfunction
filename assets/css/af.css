@@ -52,8 +52,7 @@ body {
 .container_full_dark {
   width: 100%;
   padding:20px;
-  top: 50%;
-  left: 50%;
+  text-decoration: center;
   /* transform: translate(-50%, -50%)
    */
 }
