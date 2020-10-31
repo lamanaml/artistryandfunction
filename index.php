@@ -112,11 +112,16 @@ include 'includes/nav.html';
       <div class="row row-cols-1 row-cols-md-2 card-deck">
         <div class="col mb-4">
           <div class="card">
-            <div class="card-body">
+            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
+            
+          </div>
+        </div>
+        <div class="col mb-4">
+          <div class="card">
+        <div class="card-body">
                 <h5 class="display-4">About Us</h5>
-                <h5 class="card-title">Our Experience</h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              </div>
+              <h5 class="card-title">Our Experience</h5>
+              <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             </div>
             <div class="card-body">
               <h5 class="card-title">Our team</h5>
@@ -125,13 +130,9 @@ include 'includes/nav.html';
           </div>
         </div> 
       </div>
-   
-      <div class="col mb-4">
-        <div class="card">
-          <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
-          </div>
-        </div>
-      </div>
+    </div>
+
+
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark ">
       <div> 
