@@ -145,17 +145,17 @@ include 'includes/nav.html';
       </div>
       <div>
         <h3 >Subscribe to get tips to increase traffic and revenue!</h3>
-          Sign up to get tips to grow your business!
-         <form class="form-inline ">
+        <p> Sign up to get tips to grow your business!</p>
+        <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle;   ">
             <label for="staticEmail2" class="sr-only"></label>
-             <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
+            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
           </div>
-        </div>
-        <div>
-          <button type="submit" class=" mb-2" >Get Tips!</button>
-        </div>
-      </form>
+          <div>
+            <button type="submit" class=" mb-2" >Get Tips!</button>
+          </div>
+        </form>
+      </div>
     </div>
 
 <!-- Footer -->
