@@ -146,8 +146,7 @@ include 'includes/nav.html';
       <div>
         <h5 >Subscribe to get tips to increase traffic and revenue!</h5>
         <form class="form-inline ">
-          <div class="form-group mb-2" style="width: 50%;
-  margin-left : 25%   ">
+          <div class="form-group mb-2" style="width: 50%;   ">
             <label for="staticEmail2" class="sr-only"></label>
             <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
           </div>
