@@ -145,7 +145,6 @@ include 'includes/nav.html';
       </div>
       <div>
         <h3 >Subscribe to get tips to increase traffic and revenue!</h3>
-        <p> Sign up to get tips to grow your business!</p>
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle;   ">
             <label for="staticEmail2" class="sr-only"></label>
