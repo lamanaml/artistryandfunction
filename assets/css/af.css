@@ -176,7 +176,6 @@ button {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 16px;
-
 }
 
 /* Icons */
@@ -193,6 +192,14 @@ button {
 
 .form-control-plaintext {
   color: #ffffff  
+}
+
+input {
+  background-color: grey; 
+  padding:10px; 
+  margin:20px; 
+  border: 2px solid black; 
+  border-radius: 4px;
 }
 
 /* -----------------List------------------ */
