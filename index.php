@@ -56,21 +56,21 @@ include 'includes/nav.html';
       <h2 >Our Services</h2>
       <div class="card-deck">
         <div class="card">
-          <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
+          <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Web Design and Development</h5>
            
           </div>
         </div>
         <div class="card">
-          <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
+          <img src="https://d14zyouj9r0hpo.cloudfront.net/wp-content/uploads/2020/06/image-9.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Search Engine Optimization</h5>
            
           </div>
         </div>
         <div class="card">
-          <img src="https://picsum.photos/100/100" class="card-img-top" alt="...">
+          <img src="https://media.bizj.us/view/img/11644841/womanbusinessowner*1200xx4597-2591-526-429.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Affiliate Marketing Management</h5>
            
