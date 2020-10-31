@@ -144,7 +144,7 @@ include 'includes/nav.html';
         <i class="fab fa-instagram fa-lg"></i>  
       </div>
       <div>
-        <h4 >Subscribe to get tips to increase traffic and revenue!</h4>
+        <h5 >Subscribe to get tips to increase traffic and revenue!</h5>
         <form class="form-inline ">
           <div class="form-group mb-2" style="vertical-align: middle;   ">
             <label for="staticEmail2" class="sr-only"></label>
