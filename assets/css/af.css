@@ -51,9 +51,9 @@ body {
 
 .container_full_dark {
   width: 100%;
-  /* margin: 10px 150px 0px 150px; */
   padding:20px;
   justify-content: center;
+  background-color: #ffffff ;
 }
 
 
