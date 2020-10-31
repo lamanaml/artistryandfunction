@@ -151,7 +151,7 @@ include 'includes/nav.html';
             <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
           </div>
           <div>
-            <button type="submit" class=" mb-2" >Get Tips!</button>
+            <button type="submit" class="mb-2" >Get Tips!</button>
           </div>
         </form>
       </div>
