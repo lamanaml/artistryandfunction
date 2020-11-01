@@ -51,13 +51,14 @@ include 'includes/nav.html';
 </div>
 
 <!-- ------------------Our Services------------------     -->
-   <a name="services"> <div class="container_full"></a>
+   a name="services"> <div class="container_full"></a>
       <h2 class="display-4">What We Do</h2>
       <div class="card-deck">
         <div class="card">
           <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Web Design and Development</h5>
+              We create beautiful websites for companies and organizations. We create responsive, custom sites where you can easily update your own content.
            
           </div>
         </div>
@@ -72,6 +73,7 @@ include 'includes/nav.html';
           <img src="https://media.bizj.us/view/img/11644841/womanbusinessowner*1200xx4597-2591-526-429.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Affiliate Marketing Management</h5>
+            We develop a customized Affiliate Marketing strategy based your brand, content and target audience. We will manage affiliate research, onboarding, and performance to create passive income for your company.
            
           </div>
         </div>
@@ -96,7 +98,7 @@ include 'includes/nav.html';
           <div class="card">
         <div class="card-body">
                  <h2>We can help you grow your Web Presence</h2>
-              Consider us your partners.  We will assess your existing web presence, and together with you strategize on ways to grow, build it, monitor it and adjust it to make it better.  
+                 We will assess your existing web presence then sit down with you to hear what your company's needs.  We then develop a custom strategy to help you accomplish your goals.  We build that presence, monitor it and adjust it so that it keeps betting.  
               <p class="card-text"></p>
             </div>
           </div>
