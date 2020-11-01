@@ -45,7 +45,7 @@ include 'includes/nav.html';
 <div class="hero-image">
     <div class="hero-text">
     <h1>Let us help you figure out the web.  Whether you need a web site, need more traffic, or need more money from your site... we can help. </h1>
-      <h3>Let's face it, most business owners don't have time to build a successful web presence.  That's where we come in!  We will create professional web sites that rank higher in search engine results, getting more people to your website so that you can increase your revenue. This leaves you more time to run your business.  </h3>
+      <p>Let's face it, most business owners don't have time to build a successful web presence.  That's where we come in!  We will create professional web sites that rank higher in search engine results, getting more people to your website so that you can increase your revenue. This leaves you more time to run your business.  </p>
      <a href="clientsurvey.php"> <button  class="animate__animated animate__fadeInLeft"> Get Started</button></a>
   </div>
 </div>
