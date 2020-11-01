@@ -134,7 +134,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------Sign up------------------     -->
-    <div class="footer1">
+    <div class="container_full_dark ">
       
         <h5 >Subscribe to get tips to increase traffic and revenue!</h5>
         <form class="form-inline ">
