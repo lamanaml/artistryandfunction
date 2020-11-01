@@ -137,7 +137,7 @@ include 'includes/nav.html';
     <div class="container_full_dark center">
       
         <h3>Subscribe to get tips!</h3>
-        <form>
+        <form class="center"> 
           <div class="form-group mb-2" >
             <label for="staticEmail2" class="sr-only"></label>
             <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
