@@ -108,7 +108,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------About------------------     -->
-<div class="backgound">
+<div class="background">
     <a name="about"><div class="container_full "></a>
 
       <div class="row row-cols-1 row-cols-md-2 card-deck ">
