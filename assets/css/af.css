@@ -13,7 +13,7 @@ body {
 
 .background {
   background-image:  url('../images/background.jpg');
-  opacity: 0.9;
+  opacity: 0.2;
   z-index: -5;
 }
 /* ------------------Hero------------------ */
