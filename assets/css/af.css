@@ -233,6 +233,8 @@ button {
 /* ------------------Footer------------------ */
 .footer1 {
   color:  #fffffa;
+  text-align: center;
+    padding:10px;
 }
 
 .footer2 {
