@@ -13,7 +13,7 @@ body {
 
 /* ------------------Hero------------------ */
 .hero-image {
-  background-image: url("https://cdn.searchenginejournal.com/wp-content/uploads/2020/07/a58002b9-8a6c-4b80-89f4-5e9f2f7f5876-5f22e4d8ea82e.jpeg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.searchenginejournal.com/wp-content/uploads/2020/07/a58002b9-8a6c-4b80-89f4-5e9f2f7f5876-5f22e4d8ea82e.jpeg");
   background-color: #cccccc;
   height: 800px;
   background-position: center;
@@ -95,14 +95,14 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  width: 600px;
+  /* width: 600px;
   text-align: left;
   margin-left: -100px;
   letter-spacing: 6px;
   z-index: 100;
   position: absolute;
   left: 150px;
-  top: 40px;
+  top: 40px; */
 }
 
 
