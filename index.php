@@ -115,9 +115,9 @@ include 'includes/nav.html';
           <div class="card">
             <div class="card-body">
               <h5 class="display-4">Who We Are</h5>
-              <p class="card-text">These days, having a web site is not enough.  There are literally millions of companies that offer a similar product or service. Don't believe us, just search for your product or service.  This is where we come in.  Not only will we build or improve your web presence, we will help people find you and the products and services that they are looking for!  </p>
+              <p class="card-text">These days, having a web site is not enough.  There are literally millions of companies that offer similar product and service. Don't believe us, just search for any product or service and see how many results you get.  This is where we come in.  Not only will we build or improve your web presence, we will help people find you and the products and services that you offer!  </p>
 
-              <p class="card-text">At A+F, we are experts in our field and will create and help you navigate one of the most important marketing tools that you have... your website.   
+              <p class="card-text">At Artistry + Function, we are experts in our field and will help you stand out on one of the most important marketing tools that you have... your website.   
 
               <p class="card-text">We are a web design and development agency based in Raleigh-Durham with years of experience.  We specialize in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with companies like yours to create, improve and monetize your web presence.</p> 
                            
