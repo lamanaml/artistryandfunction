@@ -108,9 +108,10 @@ include 'includes/nav.html';
 
 
 <!-- ------------------About------------------     -->
+<div class="backgound">
     <a name="about"><div class="container_full "></a>
 
-      <div class="row row-cols-1 row-cols-md-2 card-deck background">
+      <div class="row row-cols-1 row-cols-md-2 card-deck ">
         <div class="col mb-4">
           <div class="card">
             <div class="card-body">
@@ -134,7 +135,7 @@ include 'includes/nav.html';
         
       </div>
     </div>
-
+</div>
 
 <!-- ------------------Sign up------------------     -->
 
