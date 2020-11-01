@@ -259,7 +259,7 @@ button {
 @media only screen and (max-width: 600px) {
 .container_full {
   flex-direction:column;
-  background-color: #fffffa ;
+  background-color: #ffffff ;
   padding-top:50px;
   padding-bottom:50px;
 }
