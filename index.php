@@ -134,7 +134,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------Sign up------------------     -->
-    <div class="container_full_dark ">
+    <div class="container_full_dark center">
       
         <h3>Subscribe to get tips!</h3>
         <form>
