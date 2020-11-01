@@ -108,8 +108,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------About------------------     -->
-<div class="background">
-    <a name="about"><div class="container_full "></a>
+    <a name="about"><div class="container_full background "></a>
 
       <div class="row row-cols-1 row-cols-md-2 card-deck ">
         <div class="col mb-4">
@@ -135,7 +134,7 @@ include 'includes/nav.html';
         
       </div>
     </div>
-</div>
+
 
 <!-- ------------------Sign up------------------     -->
 
