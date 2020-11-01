@@ -147,7 +147,7 @@ include 'includes/nav.html';
           </div>
         </form>
       </div>
-    </div>
+
 
 <!-- Footer -->
 <?php
