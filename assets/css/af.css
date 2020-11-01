@@ -52,7 +52,16 @@ body {
 
 }
 
-.container_full::before {
+
+.container_full_dark {
+  position: relative; 
+  width: 100%;
+  padding:20px;
+  background-color: gray ;
+  text-align: center;
+}
+
+.container_full_dark::before {
   background-image: url('../images/background.jpg');
   background-color: gray;
   position: absolute;
@@ -63,18 +72,6 @@ body {
   left: 0px;
 }
 
-.container_full_dark {
-  width: 100%;
-  padding:20px;
-  background-color: gray ;
-  text-align: center;
-}
-
-
-.flex-container_col {
-  display: flex;
-  flex-direction: column;
-}
 
 
 /* ------------------Navigation------------------ */
