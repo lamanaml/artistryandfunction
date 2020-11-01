@@ -97,7 +97,7 @@ include 'includes/nav.html';
         <div class="card-body">
                  <h5 class="display-4">We can help you grow your brand</h5>
               
-              <p class="card-text">We are a web design and development agency located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small and medium companies to improve their business.</p>
+              <p class="card-text">We are a web design and development agency located in Raleigh-Durham, NC specializing in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with small and medium companies to create, improve and monetize their web presence.</p>
             </div>
           </div>
         </div> 
