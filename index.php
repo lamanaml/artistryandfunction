@@ -136,7 +136,7 @@ include 'includes/nav.html';
 <!-- ------------------Sign up------------------     -->
     <div class="container_full_dark ">
       
-        <h3>Subscribe to get tips to increase traffic and revenue!</h3>
+        <h3>Subscribe to get tips!</h3>
         <form>
           <div class="form-group mb-2" >
             <label for="staticEmail2" class="sr-only"></label>
