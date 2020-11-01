@@ -52,7 +52,7 @@ include 'includes/nav.html';
 
 <!-- ------------------Our Services------------------     -->
    <a name="services"> <div class="container_full"></a>
-      <h2 class="display-4">What We Do</h2>
+      <h2 >What We Do</h2>
       <div class="card-deck">
         <div class="card">
           <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="card-img-top" alt="...">
@@ -114,7 +114,7 @@ include 'includes/nav.html';
         <div class="col mb-4">
           <div class="card">
             <div class="card-body">
-              <h5 class="display-4">Who We Are</h5>
+              <h5 >Who We Are</h5>
               <p class="card-text">These days, having a web site is not enough.  There are literally millions of companies that offer similar product and service. Don't believe us, just search for any product or service and see how many results you get.  This is where we come in.  Not only will we build or improve your web presence, we will help people find you and the products and services that you offer!  </p>
 
               <p class="card-text">At Artistry + Function, we are experts in our field and will help you stand out on one of the most important marketing tools that you have... your website.   
