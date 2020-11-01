@@ -131,18 +131,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------Sign up------------------     -->
-    <div class="container_full_dark ">
-        <h3>Subscribe to get tips!</h3>
-        <form class="center"> 
-          <div class="form-group mb-2" >
-            <label for="staticEmail2" class="sr-only"></label>
-            <input type="text" readonly class="form-control-plaintext" id="staticEmail2"  value=" *Email Address ">
-          </div>
-          <div>
-            <button type="submit" class="mb-2" >Get Tips!</button>
-          </div>
-        </form>
-      </div>
+
 
 
 <!-- Footer -->
