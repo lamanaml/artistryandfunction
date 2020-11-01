@@ -98,7 +98,7 @@ include 'includes/nav.html';
           <div class="card">
         <div class="card-body">
                  <h2>We can help you grow your Web Presence</h2>
-                 We will assess your existing web presence then sit down with you to hear what your company's needs.  We then develop a custom strategy to help you accomplish your goals.  We build that presence, monitor it and adjust it so that it keeps betting.  
+                 We will assess your existing web presence then sit down with you to hear what your company's needs are.  We will then develop a custom strategy to help you accomplish your goals.  We will build that presence, monitor it and adjust it so that it keeps getting better.  
               <p class="card-text"></p>
             </div>
           </div>
