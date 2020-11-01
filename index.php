@@ -52,7 +52,7 @@ include 'includes/nav.html';
 
 <!-- ------------------Our Services------------------     -->
    <a name="services"> <div class="container_full"></a>
-      <h2 >What We Do</h2>
+      <h2 class="display-4">What We Do</h2>
       <div class="card-deck">
         <div class="card">
           <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="card-img-top" alt="...">
@@ -95,7 +95,7 @@ include 'includes/nav.html';
         <div class="col mb-4">
           <div class="card">
         <div class="card-body">
-                 <h5 class="display-4">We can help you grow your Web Presence</h5>
+                 <h2>We can help you grow your Web Presence</h2>
               Consider us your partners.  We will assess your existing web presence, and together with you strategize on ways to grow, build it, monitor it and adjust it to make it better.  
               <p class="card-text"></p>
             </div>
