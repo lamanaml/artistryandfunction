@@ -97,7 +97,7 @@ include 'includes/nav.html';
         <div class="card-body">
                  <h5 class="display-4">We can help you grow your brand</h5>
               
-              <p class="card-text">We are a web design and development agency based in Raleigh-Durham with years of experience.  We specialize in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with companies like yours to create, improve and monetize your web presence.</p>
+              <p class="card-text"></p>
             </div>
           </div>
         </div> 
@@ -113,10 +113,8 @@ include 'includes/nav.html';
           <div class="card">
             <div class="card-body">
               <h5 class="display-4">Who We Are</h5>
-                           <p class="card-text">Business owners don't have the time or knowledge to take on everything!  They call in professionals who will have their business up and running in no time.   At A+F, we are experts in our field and will create, explain and help you navigate one of the most important marketing tools that you have... your website.  If a child broke an arm we would not try to fix it ourselves we would take them to a professional to get the job done.  Consider us your Web Doctor. 
-
-
-</p>
+                           <p class="card-text">Business owners don't have the time or knowledge to take on everything!  They call in professionals who will have their business up and running in no time.   At A+F, we are experts in our field and will create, explain and help you navigate one of the most important marketing tools that you have... your website.  If a child broke an arm we would not try to fix it ourselves we would take them to a professional to get the job done.  Consider us your Web Doctor. </p>
+                           <p>We are a web design and development agency based in Raleigh-Durham with years of experience.  We specialize in web design, web development, Search Engine Optimization and Affiliate Marketing Strategy. We work with companies like yours to create, improve and monetize your web presence.</p>
             </div>
         
           </div>
