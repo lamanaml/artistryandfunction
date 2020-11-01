@@ -11,7 +11,8 @@ body {
   
 }
 
-.background {
+.background::before {
+  content: "";
   background-image:  url('../images/background.jpg');
   opacity: 0.2;
   z-index: 0;
