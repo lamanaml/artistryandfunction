@@ -86,7 +86,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------ our niche------------------     -->
-   <div class="container_full">
+   <div class="container_full_dark">
 
       <div class="row row-cols-1 row-cols-md-2 card-deck">
         <div class="col mb-4">
@@ -108,7 +108,7 @@ include 'includes/nav.html';
 
 
 <!-- ------------------About------------------     -->
-    <a name="about"><div class="container_full_dark "></a>
+    <a name="about"><div class="container_full "></a>
 
       <div class="row row-cols-1 row-cols-md-2 card-deck ">
         <div class="col mb-4">
