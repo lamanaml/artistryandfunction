@@ -52,7 +52,7 @@ include 'includes/nav.html';
 
 <!-- ------------------Our Services------------------     -->
    <a name="services"> <div class="container_full"></a>
-      <h2 class="display-4">What We Do</h2>
+      <h5 class="display-4">What We Do</h5>
       <div class="card-deck">
         <div class="card">
           <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="card-img-top" alt="...">
