@@ -106,7 +106,7 @@ include 'includes/nav.html';
   </div>
 
 
-
+<!-- 
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
@@ -130,9 +130,9 @@ include 'includes/nav.html';
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
-  </div>
+  </div> -->
 
-
+<!-- 
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
@@ -156,7 +156,7 @@ include 'includes/nav.html';
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
-  </div>
+  </div> -->
 
   </div>
 
