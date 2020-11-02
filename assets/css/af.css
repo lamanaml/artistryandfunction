@@ -158,8 +158,7 @@ h5 {
 /* ------------------Cards------------------ */
 .card {
   border:0px;
-  background-color: #ffffff;
-  width:25%;
+
 }
 .card_large {
  width: 33%;
@@ -174,7 +173,10 @@ h5 {
   padding: 20px;
 }
 
+.card2 {
+  border:1px;
 
+}
 button {
   background-color: #5c0029;
   border: none;

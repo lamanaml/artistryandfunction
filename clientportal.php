@@ -54,7 +54,7 @@ include 'includes/nav.html';
   <h2 >Client Portal</h2>
   <div class="flex-container">
 
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="https://images.yourstory.com/cs/1/16ca2180-5042-11e9-8207-218120872911/digital-payments-pci-ppi-rbi-770x4331554380500502.png" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Make a payment</h5>
@@ -62,7 +62,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Invoice receipts</h5>
@@ -70,7 +70,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -80,7 +80,7 @@ include 'includes/nav.html';
   </div>
 
 
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Website Questionnaire</h5>
@@ -88,7 +88,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Client Proposal</h5>
@@ -96,7 +96,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Requirements</h5>
@@ -107,7 +107,7 @@ include 'includes/nav.html';
 
 
 
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Content Sheet</h5>
@@ -115,7 +115,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Style Guide</h5>
@@ -123,7 +123,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Prototype</h5>
@@ -133,7 +133,7 @@ include 'includes/nav.html';
   </div>
 
 
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Referral Program</h5>
@@ -141,7 +141,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Style Guide</h5>
@@ -149,7 +149,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-  <div class="card">
+  <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Prototype</h5>
