@@ -78,7 +78,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-</div>
+
 
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
@@ -104,7 +104,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-</div>
+
 
 
   <div class="card">
@@ -131,7 +131,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-</div>
+
 
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
@@ -157,7 +157,7 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div>
-</div>
+
 
 
 
