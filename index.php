@@ -129,7 +129,7 @@ include 'includes/nav.html';
         </div> 
         <div class="col mb-4">
           <div class="card">
-            <img src="https://i1.wp.com/moguldom.com/wp-content/uploads/2019/01/g.jpg?fit=800%2C800&ssl=1" class="card-img-top " alt="...">
+            <img src="https://venturebeat.com/wp-content/uploads/2020/09/Tech_workers.jpg?fit=400%2C267&strip=all" class="card-img-top " alt="...">
             
           </div>
         </div>
