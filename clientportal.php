@@ -180,7 +180,7 @@ include 'includes/nav.html';
   </div>
 
 
-
+ </div>
 <!-- ------------------Footer------------------     -->
 <?php
 include 'includes/footer.html';
