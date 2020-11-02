@@ -72,7 +72,7 @@ include 'includes/nav.html';
           </div>
         </div>
         <div class="card">
-          <img src="https://media.bizj.us/view/img/11644841/womanbusinessowner*1200xx4597-2591-526-429.jpg" class="card-img-top" alt="...">
+          <img src="https://blogs.airdropalert.com/wp-content/uploads/2020/05/featured_getting-rich.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Affiliate Marketing Management</h5>
             We develop a customized Affiliate Marketing strategy based your brand, content and target audience. We will manage affiliate research, onboarding, and performance to create passive income for your company.
