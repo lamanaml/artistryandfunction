@@ -56,7 +56,7 @@ include 'includes/nav.html';
       <div class="card-deck">
         
         <div class="card">
-          <img src="https://image.shutterstock.com/image-photo/young-female-designer-editing-photos-260nw-1407724853.jpg" class="card-img-top" alt="...">
+          <img src="https://cdn6.dissolve.com/p/D18_179_055/D18_179_055_0004_600.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Web Design and Development</h5>
               We create beautiful websites for companies and organizations. We build mobile responsive, custom sites with a content management system that allows you to easily update your own content.
