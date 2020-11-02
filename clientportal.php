@@ -50,55 +50,38 @@ include 'includes/nav.html';
   <!-- </div> 
 </div> -->
 <!-- ------------------Main Content Area------------------     -->
+<div class="container_full">
   <h2 >Client Portal</h2>
   <div class="container flex-container">
-
-<div class="card" style="width: 25%;">
-  <div class="card-body">
-    <h5 class="card-title">About Your Business</h5>
-     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="..." alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
   </div>
-</div>
-<<div class="card" style="width: 25%;">
-  <div class="card-body">
-    <h5 class="card-title">About Your Business</h5>
-     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
+  <div class="card">
+    <img class="card-img-top" src="..." alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
   </div>
-</div>
-<div class="card" style="width: 25%;">
-  <div class="card-body">
-    <h5 class="card-title">About Your Business</h5>
-     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
-  </div>
-</div>
-<div class="card" style="width: 25%;">
-  <div class="card-body">
-    <h5 class="card-title">About Your Business</h5>
-     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
-  </div>
-</div>
-<div class="card" style="width: 25%;">
-  <div class="card-body">
-    <h5 class="card-title">About Your Business</h5>
-     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
-  </div>
-</div>
-<div class="card" style="width: 25%;">
-  <div class="card-body">
-    <h5 class="card-title">About Your Business</h5>
-     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="card-link">Card link</a>
+  <div class="card">
+    <img class="card-img-top" src="..." alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+    </div>
   </div>
 </div>
 
 
-
-< class="card mb-3" style="max-width: 540px;">
+<div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-6">
       <img src="https://images.yourstory.com/cs/1/16ca2180-5042-11e9-8207-218120872911/digital-payments-pci-ppi-rbi-770x4331554380500502.png" class="card-img" alt="...">
@@ -111,7 +94,7 @@ include 'includes/nav.html';
       </div>
     </div>
     </div>
-  </>
+  </div>
 </div>
 </div>
 <!-- ------------------Contact------------------     -->
