@@ -59,26 +59,15 @@ include 'includes/nav.html';
       </span>
     </div>
 
-          <div class="card2">
-          <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-file-earmark-arrow-down-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="evenodd" d="M2 2a2 2 0 0 1 2-2h5.293A1 1 0 0 1 10 .293L13.707 4a1 1 0 0 1 .293.707V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2zm7.5 1.5v-2l3 3h-2a1 1 0 0 1-1-1zm-1 4a.5.5 0 0 0-1 0v3.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0-.708-.708L8.5 11.293V7.5z"/>
-      </svg>
-          <span class="card-body">
-            <h5 class="card-title">Final Deliverables</h5>
-            <p class="card-text">Access all files for your final design</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </span>
-        </div>
-        <div class="card2">
-          <img class="card-img-top" src="..." alt="Card image cap">
-          <span class="card-body">
-            <h5 class="card-title">Contract</h5>
-            <p class="card-text">View the signed contract.</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-          </span>
-        </div>
+      <div class="card2">
+        <img class="card-img-top" src="..." alt="Card image cap">
+        <span class="card-body">
+          <h5 class="card-title">Contract</h5>
+          <p class="card-text">View the signed contract.</p>
+          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        </span>
+      </div>
 
-        
         <div class="card2">
         <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-chat-left-dots-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd" d="M0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H4.414a1 1 0 0 0-.707.293L.854 15.146A.5.5 0 0 1 0 14.793V2zm5 4a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm3 1a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
@@ -161,7 +150,17 @@ include 'includes/nav.html';
         </div> 
 
 
-        
+      <div class="card2">
+        <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-file-earmark-arrow-down-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" d="M2 2a2 2 0 0 1 2-2h5.293A1 1 0 0 1 10 .293L13.707 4a1 1 0 0 1 .293.707V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2zm7.5 1.5v-2l3 3h-2a1 1 0 0 1-1-1zm-1 4a.5.5 0 0 0-1 0v3.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0-.708-.708L8.5 11.293V7.5z"/>
+    </svg>
+        <span class="card-body">
+          <h5 class="card-title">Final Deliverables</h5>
+          <p class="card-text">Access all files for your final design</p>
+          <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        </span>
+      </div>
+     
   <!-- <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
@@ -172,7 +171,7 @@ include 'includes/nav.html';
   </div> -->
 
   </div>
-</div>
+
 
 
 <!-- ------------------Footer------------------     -->
