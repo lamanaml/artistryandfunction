@@ -52,7 +52,7 @@ include 'includes/nav.html';
 <!-- ------------------Main Content Area------------------     -->
 <div class="container_full">
   <h2 >Client Portal</h2>
-  <div class="container flex-container">
+  <div class="flex-container">
 
 <div class="card-deck">
   <div class="card">
