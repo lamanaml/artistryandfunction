@@ -93,7 +93,7 @@ include 'includes/nav.html';
       <div class="row row-cols-1 row-cols-md-2 card-deck">
         <div class="col mb-4">
           <div class="card">
-            <img src="https://media.bizj.us/view/img/11644841/womanbusinessowner*1200xx4597-2591-526-429.jpg" class="card-img-top " alt="...">
+            <img src="https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2010/11/BGR2.jpg" class="card-img-top " alt="...">
           </div>
         </div>
         <div class="col mb-4">
