@@ -54,7 +54,6 @@ include 'includes/nav.html';
   <h2 >Client Portal</h2>
   <div class="flex-container">
 
-<div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="https://images.yourstory.com/cs/1/16ca2180-5042-11e9-8207-218120872911/digital-payments-pci-ppi-rbi-770x4331554380500502.png" alt="Card image cap">
     <div class="card-body">
@@ -81,12 +80,6 @@ include 'includes/nav.html';
   </div>
 </div>
 
-
-
-
-<!-- Row 2 -->
-
-<div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
@@ -113,9 +106,7 @@ include 'includes/nav.html';
   </div>
 </div>
 
-<!-- Row 3 -->
 
-<div class="card-deck">
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
@@ -141,8 +132,7 @@ include 'includes/nav.html';
     </div>
   </div>
 </div>
-<!-- ------------------Contact------------------     -->
-<div class="card-deck">
+
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">
     <div class="card-body">
