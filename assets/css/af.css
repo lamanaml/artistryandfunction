@@ -159,6 +159,7 @@ h5 {
 .card {
   border:0px;
   background-color: #ffffff;
+  width:25%;
 }
 .card_large {
  width: 33%;

@@ -158,7 +158,7 @@ include 'includes/nav.html';
     </div>
   </div>
 
-
+  </div>
 
 
 
