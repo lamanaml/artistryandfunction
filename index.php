@@ -115,7 +115,7 @@ include 'includes/nav.html';
         <div class="col mb-4">
           <div class="card">
             <div class="card-body">
-              <h3 >Who We Are</h3>
+              <h2 >Who We Are</h2>
               <p class="card-text">These days, having a web site is not enough.  There are literally millions of companies that offer similar product and service. Don't believe us, just search for any product or service and see how many results you get.  This is where we come in.  Not only will we build or improve your web presence, we will help people find you and the products and services that you offer!  </p>
 
               <p class="card-text">At Artistry + Function, we are experts in our field and will help you stand out on one of the most important marketing tools that you have... your website.   
