@@ -60,7 +60,10 @@ include 'includes/nav.html';
     </div>
 
       <div class="card2">
-        <img class="card-img-top" src="..." alt="Card image cap">
+        <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-files" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M4 2h7a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zm0 1a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1H4z"/>
+  <path d="M6 0h7a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2v-1a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1H4a2 2 0 0 1 2-2z"/>
+</svg>
         <span class="card-body">
           <h5 class="card-title">Contract</h5>
           <p class="card-text">View the signed contract.</p>
@@ -81,7 +84,11 @@ include 'includes/nav.html';
 
 
         <div class="card2">
-          <img class="card-img-top" src="..." alt="Card image cap">
+          <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-file-earmark-ruled" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M5 10H3V9h10v1H6v2h7v1H6v2H5v-2H3v-1h2v-2z"/>
+  <path d="M4 0h5.5v1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V4.5h1V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2z"/>
+  <path d="M9.5 3V0L14 4.5h-3A1.5 1.5 0 0 1 9.5 3z"/>
+</svg>
           <span class="card-body">
             <h5 class="card-title">Client Questionnaire</h5>
             <p class="card-text">View/update your Client Questionnaire</p>
