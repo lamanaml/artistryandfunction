@@ -67,7 +67,7 @@ include 'includes/nav.html';
           <img src="https://d14zyouj9r0hpo.cloudfront.net/wp-content/uploads/2020/06/image-9.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Search Engine Optimization</h5>
-            We discuss how SEO impacts how your site is found, and what we can do to help people find you. We’ll identify the most relevant keywords, create quality content your audience will love, and build relevant links from credible sources.
+            We discuss how SEO impacts how your site is found, and what we can do to help people find you. We’ll identify the most relevant keywords, help you create quality content your audience will love, and build relevant links from credible sources.
            
           </div>
         </div>
