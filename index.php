@@ -138,7 +138,7 @@ include 'includes/nav.html';
     </div>
 
 
-<!-- ------------------Sign up------------------     -->
+
 
 
 
