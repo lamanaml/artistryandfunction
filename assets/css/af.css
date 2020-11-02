@@ -38,8 +38,8 @@ body {
 
 .flex-container {
   display: flex;
-   lex-direction: row;
-   flex-wrap: wrap;
+  flex-direction: row;
+ flex-wrap: wrap;
  
   /* max-width: 25%; */
    margin: 30px 150px 30px 150px;
@@ -177,7 +177,7 @@ h5 {
 
 .card2 {
   border:1px;
-
+  width:25%;
 }
 button {
   background-color: #5c0029;

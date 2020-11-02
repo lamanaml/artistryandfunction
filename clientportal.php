@@ -50,7 +50,7 @@ include 'includes/nav.html';
   <!-- </div> 
 </div> -->
 <!-- ------------------Main Content Area------------------     -->
-
+<div class="container_full">
   <h2 >Client Portal</h2>
   <div class="flex-container">
 
