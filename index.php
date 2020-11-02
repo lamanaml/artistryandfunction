@@ -56,7 +56,7 @@ include 'includes/nav.html';
       <div class="card-deck">
         
         <div class="card">
-          <img src="https://about.fb.com/wp-content/uploads/2020/08/NRP-Discover_Support_Black-Owned_Businesses_on_FB_IG_banner_FINAL.jpg?fit=1920%2C1080" class="card-img-top" alt="...">
+          <img src="https://image.shutterstock.com/image-photo/young-female-designer-editing-photos-260nw-1407724853.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 >Web Design and Development</h5>
               We create beautiful websites for companies and organizations. We build mobile responsive, custom sites with a content management system that allows you to easily update your own content.
