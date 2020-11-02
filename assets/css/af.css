@@ -176,8 +176,9 @@ h5 {
 }
 
 .card2 {
-  border:1px;
+  border:1px!important;
   width:25%;
+ margin:10px
 }
 button {
   background-color: #5c0029;
