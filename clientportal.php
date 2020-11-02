@@ -70,11 +70,11 @@ include 'includes/nav.html';
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
-  <div class="card2">
+    <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <h5 class="card-title">Referral Program</h5>
+      <p class="card-text">UIf you have a client that could use our Internet marketing or responsive website services, we’d love to talk to you about our referral program. We will pay you a commission on any referrals that sign a contract with us.  Please contact us to discuss the specifics.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
