@@ -175,6 +175,9 @@ h5 {
   padding: 20px;
 }
 
+.bi {
+  padding:10px;
+}
 .card2 {
   border:1px!important;
   border-color: gray;
