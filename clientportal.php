@@ -58,7 +58,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="https://images.yourstory.com/cs/1/16ca2180-5042-11e9-8207-218120872911/digital-payments-pci-ppi-rbi-770x4331554380500502.png" alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Make a payment</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text">Pay your upcoming invoice</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -66,7 +66,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Invoice receipts</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text">View or download all of your paid invoices</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -74,7 +74,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Referral Program</h5>
-      <p class="card-text">UIf you have a client that could use our Internet marketing or responsive website services, we’d love to talk to you about our referral program. We will pay you a commission on any referrals that sign a contract with us.  Please contact us to discuss the specifics.</p>
+      <p class="card-text">We will pay you a commission on any referrals that sign a contract with us.  </p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -83,8 +83,8 @@ include 'includes/nav.html';
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
-      <h5 class="card-title">Website Questionnaire</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title">Client Questionnaire</h5>
+      <p class="card-text">View/update your Client Questionnaire</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -92,7 +92,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Client Proposal</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text">View the client presentation from our proposal meeting</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -100,7 +100,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Requirements</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text">Review the requirements  from our requirements gathering meeting</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -119,7 +119,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Style Guide</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text">View the custom design guide for your site</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
@@ -127,7 +127,7 @@ include 'includes/nav.html';
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Prototype</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text">View and comment on all of the prototypes for your site.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div> 
@@ -136,8 +136,8 @@ include 'includes/nav.html';
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
-      <h5 class="card-title">Referral Program</h5>
-      <p class="card-text">UIf you have a client that could use our Internet marketing or responsive website services, we’d love to talk to you about our referral program. We will pay you a commission on any referrals that sign a contract with us.  Please contact us to discuss the specifics.</p>
+      <h5 class="card-title">Final Deliverables</h5>
+      <p class="card-text">Access all files for your final design</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
