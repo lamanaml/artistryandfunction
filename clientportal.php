@@ -168,19 +168,19 @@ include 'includes/nav.html';
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
-      <h5 class="card-title">Style Guide</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h5 class="card-title">Contract</h5>
+      <p class="card-text">View the signed contract.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
   </div>
-  <div class="card2">
+  <!-- <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
     <span class="card-body">
       <h5 class="card-title">Prototype</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </span>
-  </div>
+  </div> -->
 
   </div>
 
