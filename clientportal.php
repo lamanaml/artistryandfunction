@@ -56,106 +56,106 @@ include 'includes/nav.html';
 
   <div class="card2">
     <img class="card-img-top" src="https://images.yourstory.com/cs/1/16ca2180-5042-11e9-8207-218120872911/digital-payments-pci-ppi-rbi-770x4331554380500502.png" alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Make a payment</h5>
       <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Invoice receipts</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
 
 
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Website Questionnaire</h5>
       <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Client Proposal</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Requirements</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
 
 
 
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Content Sheet</h5>
       <p class="card-text">Use this worksheet to help you write your content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Style Guide</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Prototype</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
 
 
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Referral Program</h5>
       <p class="card-text">UIf you have a client that could use our Internet marketing or responsive website services, we’d love to talk to you about our referral program. We will pay you a commission on any referrals that sign a contract with us.  Please contact us to discuss the specifics.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Style Guide</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
   <div class="card2">
     <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
+    <span class="card-body">
       <h5 class="card-title">Prototype</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-    </div>
+    </span>
   </div>
 
   </div>
