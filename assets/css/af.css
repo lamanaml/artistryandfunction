@@ -38,8 +38,9 @@ body {
 
 .flex-container {
   display: flex;
+   lex-direction: row;
    flex-wrap: wrap;
-  flex-direction: row;
+ 
   /* max-width: 25%; */
    margin: 30px 150px 30px 150px;
   /* padding:20px; */
